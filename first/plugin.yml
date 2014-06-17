@@ -1,0 +1,8 @@
+name: first
+main: me.WhiteGrits.first.first
+version: 1.0
+description: "first plugin."
+commands:
+  sendme:
+    description: "Sent!"
+	
